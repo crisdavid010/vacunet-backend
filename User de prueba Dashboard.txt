@@ -1,0 +1,4 @@
+nombre: Administrador Principal
+correo: admin@vacunet.com
+password: admin123
+rol: admin
